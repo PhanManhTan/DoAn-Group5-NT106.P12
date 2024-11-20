@@ -11,3 +11,6 @@
 
 
 # Đề tài: Game tiến lên miền nam
+
+##Network Stack
+![Ảnh ví dụ](D:\Download D\NetworkStack.drawio.png)

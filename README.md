@@ -1,7 +1,9 @@
 
 # Đồ án môn học
 # Group 5.
-## Môn học: Lập trình mạng căn bản, Mã lớp: NT106.P12
+## Môn học: Lập trình mạng căn bản
+## Mã lớp: NT106.P12
+# Đề tài: Game tiến lên miền nam
 ### Danh sách thành viên:
 | Họ và tên | MSSV | Gmail |
 |--------------|-------|------|
@@ -10,7 +12,11 @@
 | Bùi Ngọc Thái | 23521412 | [23521412@gm.uit.edu.vn](mailto:23521412@gm.uit.edu.vn) | 
 
 
-# Đề tài: Game tiến lên miền nam
 
-##Network Stack
+`Sever` Branch: `SERVER`
+`Client` Branch: `TienLenMienNam`
+### Network Stack
+![Ảnh ví dụ](NetworkStack.drawio.png)
+
+##### Đồ Án Mục Đích Phục Vụ Cho Môn Học Lập Trình Mạng Căn Bản!!!
 

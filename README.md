@@ -1,6 +1,6 @@
 
 # Đồ án môn học
-# Group 5.
+# Group 5
 ## Môn học: Lập trình mạng căn bản
 ## Mã lớp: NT106.P12
 # Đề tài: Game tiến lên miền nam

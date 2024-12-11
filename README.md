@@ -17,7 +17,7 @@
 
 `Client` Branch: `TienLenMienNam`
 ### Network Stack
-![Ảnh ví dụ](NetworkStack.drawio.png)
+![Ảnh ví dụ](NetworkStackTLMN.drawio.png)
 
 ##### Đồ Án Mục Đích Phục Vụ Cho Môn Học Lập Trình Mạng Căn Bản!!!
 

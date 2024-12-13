@@ -1,0 +1,13 @@
+C:\Users\Son\source\repos\ServerTLMN\ServerTLMN\bin\Debug\ServerTLMN.exe.config
+C:\Users\Son\source\repos\ServerTLMN\ServerTLMN\bin\Debug\ServerTLMN.exe
+C:\Users\Son\source\repos\ServerTLMN\ServerTLMN\bin\Debug\ServerTLMN.pdb
+C:\Users\Son\source\repos\ServerTLMN\ServerTLMN\obj\Debug\ServerTLMN.csproj.AssemblyReference.cache
+C:\Users\Son\source\repos\ServerTLMN\ServerTLMN\obj\Debug\ServerTLMN.Properties.Resources.resources
+C:\Users\Son\source\repos\ServerTLMN\ServerTLMN\obj\Debug\ServerTLMN.csproj.GenerateResource.cache
+C:\Users\Son\source\repos\ServerTLMN\ServerTLMN\obj\Debug\ServerTLMN.csproj.CoreCompileInputs.cache
+C:\Users\Son\source\repos\ServerTLMN\ServerTLMN\obj\Debug\ServerTLMN.exe
+C:\Users\Son\source\repos\ServerTLMN\ServerTLMN\obj\Debug\ServerTLMN.pdb
+C:\Users\Son\source\repos\ServerTLMN\ServerTLMN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Son\source\repos\ServerTLMN\ServerTLMN\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Son\source\repos\ServerTLMN\ServerTLMN\obj\Debug\ServerTLMN.Server.resources
+C:\Users\Son\source\repos\ServerTLMN\ServerTLMN\obj\Debug\ServerTLMN.csproj.Up2Date
